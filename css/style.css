@@ -16,7 +16,6 @@ h4 {
 /*body{
   background: linear-gradient(#CCCCCC,#000000);
 }
-
 div{
   width: 600px;
   height: 400px;
@@ -49,7 +48,8 @@ td{
   height: 200px;
   width:200px;
   padding:10px;
-  border: 2px solid pink;
+  border: 2px solid red;
+  /*Temp: border: 2px solid pink;*/
 }
 
 .coin1 {
